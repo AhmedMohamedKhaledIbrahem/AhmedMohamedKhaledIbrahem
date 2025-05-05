@@ -1,8 +1,6 @@
 <h1 align="center">Hi,i'm Ahmed Mohamed Khaled Ibrahem</h1>
 <h3 align="center">Android Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmohamedkhaledibrahem" alt="ahmedmohamedkhaledibrahem" /></a> </p>
-
 - 📫 How to reach me **ahmed.m.khaled.2020@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TPlHOWzkZL5Tqyt95VWbq12QJlzM0_uE/view?usp=drive_link](https://drive.google.com/file/d/1TPlHOWzkZL5Tqyt95VWbq12QJlzM0_uE/view?usp=drive_link)
